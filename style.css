@@ -1,0 +1,89 @@
+.xml {
+    background-color: #eceeef
+}
+
+div.container {
+    max-width: 100%;
+    padding: 0;
+}
+
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 1rem;
+    margin: 0rem .8rem 0rem;
+}
+
+.img-fluid.size{
+   margin-top: 1.7rem;
+   margin-bottom: 1.7rem;
+}
+
+.coolStuff {
+    margin-top: 20px;
+}
+
+button.coolBtn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, .7);
+}
+
+.img-fluid.adjust {
+    display: block;
+    margin: auto;
+}
+
+.formWrap {
+    padding: 2rem;
+}
+
+.col-sm-12.col-md-3 {
+    padding: 3rem;
+}
+
+.imgCentre {
+    display: block;
+    margin: auto;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .7);
+}
+
+.adj {
+    display: block;
+    margin: auto;
+    padding: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, .7);
+    width: 100%;
+}
+
+.ed {
+    width: 50%;
+    padding: 10px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+    margin-right: 20px;
+}
+
+.fa-instagram{
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+.social {
+    margin: auto;
+}
